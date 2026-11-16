@@ -1,6 +1,6 @@
 # Rota Seca | Inteligência Artificial & Machine Learning
 
-[Assistir à apresentação do projeto no YouTube](https://www.youtube.com/watch?v=AKEWKGfVI98)
+[Assistir à apresentação do projeto no YouTube](https://youtu.be/I9Z06vReKtE)
 
 ## Ficha da CitizenTech
 
