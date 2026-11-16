@@ -9,7 +9,6 @@ Seleção de perguntas feitas durante o projeto, com pequenos ajustes de redaç�
 
 ## Interpretação do modelo
 
-- Quais medidas o modelo usa para estimar se pode ocorrer um alagamento no cruzamento?
 - Como o modelo se saiu nos testes e quais métricas são importantes para entender o resultado?
 - Com a precisão que obtivemos, faz sentido apresentar esse modelo na entrega?
 
