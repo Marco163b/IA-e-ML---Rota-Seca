@@ -1,0 +1,37 @@
+{
+  "local": {
+    "configuracao": "Duas estações",
+    "metodo": "Random Forest",
+    "parametros": [
+      32,
+      5,
+      8
+    ],
+    "limiar": 0.031107915635718013
+  },
+  "mirante": {
+    "configuracao": "Mirante",
+    "metodo": "Random Forest",
+    "parametros": [
+      32,
+      5,
+      32
+    ],
+    "limiar": 0.010448300619748819
+  },
+  "controle": {
+    "configuracao": "Mirante",
+    "metodo": "Random Forest",
+    "parametros": [
+      32,
+      5,
+      8
+    ],
+    "limiar": 0.01307984856636911
+  },
+  "linhas_ajuste": 90640,
+  "positivos_ajuste": 60,
+  "linhas_validacao": 63984,
+  "positivos_validacao": 23,
+  "sha256_pacote": "83be8132c8847d9a652b6d3f3729d057a81d19fe4ba792673ece6565958ebbb0"
+}

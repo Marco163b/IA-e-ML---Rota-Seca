@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+*.pyc
+.DS_Store
+/ml/dados/brutos/
+/Rota-Seca-IA-ML-repositorio.zip
+/ANDAMENTO.md
+/ml/ROTEIRO_VIDEO.md
+/ml/Roteiro Video Rota Seca IA e ML.docx
