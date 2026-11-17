@@ -47,7 +47,7 @@ py -3.14 -m venv .venv
 & .\.venv\Scripts\python.exe -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=600 ml/rota_seca_ml.ipynb
 ```
 
-A seção 7 refaz a seleção em uma pasta temporária. A seção 8 calcula as métricas de 2026 com os modelos e os limiares preservados antes do teste. Para explorar as células e suas saídas, abra o notebook no JupyterLab.
+A lista de pacotes e versões está em [dependências do notebook](ml/requirements.txt). A seção 7 refaz a seleção em uma pasta temporária. A seção 8 calcula as métricas de 2026 com os modelos e os limiares preservados antes do teste. Para explorar as células e suas saídas, abra o notebook no JupyterLab.
 
 ```powershell
 & .\.venv\Scripts\python.exe -m jupyter lab ml/rota_seca_ml.ipynb
